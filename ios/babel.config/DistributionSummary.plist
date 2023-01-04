@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MiniBobEnglish.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EB01BDA72B2BA2C2CBEEBE850450038CA774BFC3</string>
+				<key>dateExpires</key>
+				<string>29/11/2022</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>64AGPP5N68.com.englishbasic.minibobenglish</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>64AGPP5N68</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>MiniBobEnglish.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6a07bfdd-ed85-4ce9-8fcf-bea447b8af06</string>
+				<key>dateExpires</key>
+				<string>29/11/2022</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.englishbasic.minibobenglish</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>64AGPP5N68</string>
+				<key>name</key>
+				<string>SMART NET TRADING SERVICE COMPANY LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

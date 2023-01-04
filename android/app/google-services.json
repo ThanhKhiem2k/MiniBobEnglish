@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "494014020011",
+    "project_id": "minibobenglish",
+    "storage_bucket": "minibobenglish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494014020011:android:14859fd258247153067aee",
+        "android_client_info": {
+          "package_name": "com.englishbasic.minibobenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494014020011-b87p6damf66p5dbvpqqi3uctt6o8o9f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.englishbasic.minibobenglish",
+            "certificate_hash": "5052aabf61cac081a7e8c5fa6ab4349e5aa99167"
+          }
+        },
+        {
+          "client_id": "494014020011-i2ssgl5dkr1e3lu38pqpdhculudvljpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhsBShddGXIhx4WFE7O_7zsMC35iaREc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494014020011-i2ssgl5dkr1e3lu38pqpdhculudvljpk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494014020011-8u7mmv0mijfdmif0djeu7efrgvlvsrr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.englishbasic.minibobenglish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

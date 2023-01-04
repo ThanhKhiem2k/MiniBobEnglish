@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MiniBobEnglish.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>243B0A5AAFE68F1513E4457EB947FE09FE698014</string>
+				<key>dateExpires</key>
+				<string>05/11/2023</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>C7L554S33Y.com.englishbasic.minibobe</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>C7L554S33Y</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>MiniBobEnglish.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a484112b-6e3b-4a20-bc9a-b0c67678ab53</string>
+				<key>dateExpires</key>
+				<string>23/11/2023</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.englishbasic.minibobe</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>C7L554S33Y</string>
+				<key>name</key>
+				<string>Tan Nguyen</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
